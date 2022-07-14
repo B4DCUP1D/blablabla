@@ -1,0 +1,27 @@
+{
+    "name": "CheckerBinLaJungle",
+    "description": "Checker BIN By @Lajugnlefr",
+    "keywords": [
+        "Bin",
+        "Bot",
+        "Telegra."
+    ],
+    "website": "#TODO",
+    "repository": "https://t.me/Autoshop_LajungleBot",
+    "success_url": "/",
+    "env": {
+        "BOT_TOKEN": {
+            "description": "5561216822:AAEdu5qsTgs0oP5hx-AuOHbL9Bl9bV3F_ws"
+        },
+        "START_MESSAGE": {
+            "description": "Bienvenue à toi en esperant ça REZ"
+        }
+    },
+    "formation": {
+        "web": {
+            "quantity": 1,
+            "size": "free"
+        }
+    },
+    "image": "heroku/php"
+}
